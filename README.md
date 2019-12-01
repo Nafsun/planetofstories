@@ -7,16 +7,16 @@ Here is the homepage:
 
 The login Page:
 
-<img src="https://github.com/Nafsun/planetofstories/blob/master/images/planetofstories-loginpage.png" alt="Planet of Stories Homepage">
+<img src="https://github.com/Nafsun/planetofstories/blob/master/images/planetofstories-loginpage.png" alt="Planet of Stories Loginpage">
 
 A storyteller Joke:
 
-<img src="https://github.com/Nafsun/planetofstories/blob/master/images/planetofstories-message.png" alt="Planet of Stories Homepage">
+<img src="https://github.com/Nafsun/planetofstories/blob/master/images/planetofstories-message.png" alt="Planet of Stories Jokepage">
 
 A Search bar:
 
-<img src="https://github.com/Nafsun/planetofstories/blob/master/images/planetofstories-search.png" alt="Planet of Stories Homepage">
+<img src="https://github.com/Nafsun/planetofstories/blob/master/images/planetofstories-search.png" alt="Planet of Stories Searchpage">
 
 User Account where a person can post and edit his stories, chat with subscribers, edit profile and much more:
 
-<img src="https://github.com/Nafsun/planetofstories/blob/master/images/planetofstories-account.png" alt="Planet of Stories Homepage">
+<img src="https://github.com/Nafsun/planetofstories/blob/master/images/planetofstories-account.png" alt="Planet of Stories User Account">
