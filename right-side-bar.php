@@ -36,7 +36,7 @@
 	<a href="https://www.linkedin.com/in/planetofstories"><img src="images/linkedin.png"/></a>
 	<a href="https://www.instagram.com/planetofstories"><img src="images/instagram.png"/></a>
 	</p>
-	<p class="about-des"><a href="https://mtechc.com.ng" target="__blank">Powered by Mustiash Tech Company</a><br><span>RC 1562845</span><br>Contact: +2347088172088</p>
+	<p class="about-des"><a href="#" target="__blank">Powered by Mustiash Tech Company</a><br><span>RC 1562845</span><br>Contact: +2347088172088</p>
 	<p class="about-des">Share this page on:
 	<script type="text/javascript">
 		document.write("<a href='https://www.facebook.com/sharer/sharer.php?u="+ window.location.href + "&quote=This is a platform that allow people to share happy, funny and sad stories and also share stories of what has happen to them in the past, present or currently happening to them for other people to share their thought and feeling." + "' target='__blank'><img class='social' src='images/facebook-share.png' alt='facebook'></a>");
