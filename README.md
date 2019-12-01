@@ -3,7 +3,7 @@ This is a platform that allow people to share happy, funny and sad stories and a
 
 <h2>To use my website</h2>
 
-Install Appserv - click here to <a href="https://www.appserv.org/en/download/"><h3>download</h3></a>
+Install Appserv <a href="https://www.appserv.org/en/download/"><h4>Download Appserv</h4></a>
 
 and then created a database called moneyforstory and then import a file name moneyforstory.sql in the planetofstories directory
 
