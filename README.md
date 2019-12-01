@@ -7,9 +7,9 @@ Install Appserv <a href="https://www.appserv.org/en/download/"><h4>Download Apps
 
 and then created a database called moneyforstory and then import a file name moneyforstory.sql in the planetofstories directory
 
-private $hostdb = "mysql:host=localhost;dbname=moneyforstory";
-private $username = "root";
-private $password = "12345678";
+private $hostdb = "mysql:host=localhost;dbname=moneyforstory";<br>
+private $username = "root";<br>
+private $password = "12345678";<br>
 
 Make sure you use the username of root and password 12345678 when installing Appserv on your computer.
 
